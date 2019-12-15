@@ -6,6 +6,7 @@ This is my final project for CS 680, Introduction to Machine Learning, at the Un
 
 
 An informal post mortem statement (more of a rant than anything substantial):
+
 Although neither of these methods worked in the way that I had originally planned, this was a great learning experience both for exposure into machine learning research as well as on a personal level.
 
 The most important lesson (that I learned the hard way) was to check my evaluations regularly. At the beginning of the project I believe that I proposed a project that was inconcievable given the timeframe, my current workload, my current skill level, and my knowledge of the packages that I had planned on using. I over evaluated how much time I would have to put into this project, as well as the tools that I would be using. At every step of this project, I felt that whenever I made some sort of progress, I would require twice the time and effort to make it too the next stage. I understood that being ambitious was an asset, however my initial enthusiasm was far outshadowed by my lack of self assessment.
