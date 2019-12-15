@@ -2,6 +2,9 @@
 
 This is my final project for CS 680, Introduction to Machine Learning, at the University of Waterloo. Here we attempt to generate synthetic handwriting from a sequence of images. We explore generation with two methods, an encoder-decoder, and a generative adversarial network.
 
+Find in GANImplementation.py the work on the GAN model.
+Find in EncDecImplementation.py the work on the Encoder-Decoder model
+
 
 
 
